@@ -8,7 +8,11 @@ I'm a software engineer with a background in IT. I’m currently studying comput
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,bash,vim,postman,vscodepr," />
+</div>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=py,django,c,cpp,git,github,"/>
+</div>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,react," />
 </div>
 
