@@ -4,7 +4,7 @@ I'm a software engineer with a background in IT. I’m currently studying comput
 
 
 
-### Languages & Touls
+### Languages & Touls:
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,bash,vim," />
@@ -16,11 +16,5 @@ I'm a software engineer with a background in IT. I’m currently studying comput
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,postman," />
 </div>
 
-### tst
-
-<div align="center"
-    <img src="https://leetcard.jacoblin.cool/moelkama?theme=dark&font=Changa)](https://leetcode.com/u/moelkama/"/>
-</div>
-
-### LeetCode
+### LeetCode:
 [![img](https://leetcard.jacoblin.cool/moelkama?theme=dark&font=Changa)](https://leetcode.com/u/moelkama/)
