@@ -7,13 +7,13 @@ I'm a software engineer with a background in IT. I’m currently studying comput
 ### Languages & Touls
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,bash,vim,postman,vscodepr," />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,bash,vim," />
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,c,cpp,git,github,"/>
+    <img src="https://skillicons.dev/icons?i=py,django,c,cpp,git,github,vscodepr,"/>
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,react," />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,postman," />
 </div>
 
 ### LeetCode
