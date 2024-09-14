@@ -10,7 +10,7 @@ I'm a software engineer with a background in IT. I’m currently studying comput
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,bash,vim," />
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,c,cpp,git,github,vscodepr,"/>
+    <img src="https://skillicons.dev/icons?i=py,django,c,cpp,git,github,vscode,pr,"/>
 </div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,postman," />
