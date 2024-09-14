@@ -7,7 +7,7 @@ I'm a software engineer with a background in IT. I’m currently studying comput
 ### Languages & Touls
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux, ubuntu, debian, django,github,postman,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian, django,github,postman,py,vscode" />
 </div>
 
 
