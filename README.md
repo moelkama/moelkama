@@ -6,14 +6,12 @@ I'm a software engineer with a background in IT. I’m currently studying comput
 
 ### Languages & Touls
 
-
-<img src='https://img.icons8.com/?size=48&id=shQTXiDQiQVR&format=png'></i>
-<img src='https://img.icons8.com/?size=48&id=40669&format=png' ></i>
-<img src='https://img.icons8.com/?size=48&id=13441&format=png' ></i>
-<img src='https://img.icons8.com/?size=55&id=zFAYIdFZlGxP&format=png&color=000000'></i>
-<img src='https://img.icons8.com/?size=60&id=qV-JzWYl9dzP&format=png&color=000000'></i>
-<img src='https://img.icons8.com/?size=50&id=108784&format=png&color=000000'>
-
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=django,github,html,js,linux,postman,py,vscode," />
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,bash,docker,c,vim,cpp,mysql," />
+</div>
 
 
 ### LeetCode
