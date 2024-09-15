@@ -18,8 +18,13 @@ I'm a software engineer with a background in IT. I’m currently studying comput
 
 ### LeetCode:
 <div align="center">
+
 [![img](https://leetcard.jacoblin.cool/moelkama?theme=dark&font=Changa)](https://leetcode.com/u/moelkama/)
+
 </div>
+
 <div align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moelkama&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
