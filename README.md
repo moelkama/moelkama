@@ -32,5 +32,5 @@ I'm a software engineer with a background in IT. I’m currently studying comput
 </div>
 
 <div align="center">
-[**VISITE MY PORTFOLIO**](https://moelkama.github.io/Portfolio/)
+**VISITE MY PORTFOLIO**![](https://moelkama.github.io/Portfolio/)
 </div>
