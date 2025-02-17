@@ -16,13 +16,6 @@ I'm a software engineer with a background in IT. I’m currently studying comput
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,postman," />
 </div>
 
-### LeetCode:
-<div align="center">
-
-[![img](https://leetcard.jacoblin.cool/moelkama?theme=dark&font=Changa)](https://leetcode.com/u/moelkama/)
-
-</div>
-
 
 ### Most Used:
 <div align="center">
