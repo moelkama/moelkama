@@ -7,10 +7,10 @@ I'm a software engineer with a background in IT. I’m currently studying comput
 ### Languages & Touls:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,bash," />
+    <img src="https://skillicons.dev/icons?i=py,django,c,cpp,git,github,"/>
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,c,cpp,git,github,"/>
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,bash," />
 </div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react," />
